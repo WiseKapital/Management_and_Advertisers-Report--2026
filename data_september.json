@@ -11,11 +11,11 @@
   },
   "teams_kpi": {
     "EMAIL": {
-      "budget": 1100.0,
-      "signups": 500,
-      "users": 40,
-      "revenue": 4400.0,
-      "profit": 3300.0
+      "budget": 980.0,
+      "signups": 441,
+      "users": 23,
+      "revenue": 3500.0,
+      "profit": 2520.0
     },
     "MEDIA": {
       "budget": 5500.0,
@@ -32,11 +32,11 @@
       "profit": 2200.0
     },
     "Grand total": {
-      "budget": 7700.0,
-      "signups": 1750,
-      "users": 360,
-      "revenue": 24200.0,
-      "profit": 16500.0
+      "budget": 7580.0,
+      "signups": 1691,
+      "users": 343,
+      "revenue": 23300.0,
+      "profit": 15720.0
     }
   },
   "catalogs": {
