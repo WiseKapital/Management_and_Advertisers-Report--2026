@@ -1,0 +1,7428 @@
+{
+  "metadata": {
+    "month": "July",
+    "year": 2026,
+    "month_key": "2026-07",
+    "date_from": "2026-07-01",
+    "date_to": "2026-07-31",
+    "days_in_month": 31,
+    "days_elapsed": 31,
+    "is_month_closed": true
+  },
+  "teams_kpi": {
+    "EMAIL": {
+      "budget": 1100.0,
+      "signups": 500,
+      "users": 40,
+      "revenue": 4400.0,
+      "profit": 3300.0
+    },
+    "MEDIA": {
+      "budget": 5500.0,
+      "signups": 1000,
+      "users": 300,
+      "revenue": 16500.0,
+      "profit": 11000.0
+    },
+    "SOCIAL": {
+      "budget": 1100.0,
+      "signups": 250,
+      "users": 20,
+      "revenue": 3300.0,
+      "profit": 2200.0
+    },
+    "Grand total": {
+      "budget": 7700.0,
+      "signups": 1750,
+      "users": 360,
+      "revenue": 24200.0,
+      "profit": 16500.0
+    }
+  },
+  "catalogs": {
+    "advertisers": [
+      "ACEBET",
+      "AFF 66",
+      "ALL IN AFFILIATES",
+      "BASHER AGENCY",
+      "CHANCED",
+      "CoinsRoyale",
+      "EPC",
+      "GAMETIME DIGITAL",
+      "IMPACT",
+      "PURIFY",
+      "SPLASH"
+    ],
+    "brands": [
+      {
+        "advertiser": "AFF 66",
+        "brand": "SweepJungle",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "AFF 66",
+        "brand": "Sixty6",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "BASHER AGENCY",
+        "brand": "Greenluck",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "BASHER AGENCY",
+        "brand": "Luckyvibe",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "BASHER AGENCY",
+        "brand": "Spinbara",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "CHANCED",
+        "brand": "Chanced Punt",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "COINSROYALE",
+        "brand": "Coins Royale sweeps",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "COINSROYALE",
+        "brand": "CoinsRoyale",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "EPC",
+        "brand": "SweepSpotGameTime",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "EPC",
+        "brand": "LegendzGameTime",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "EPC",
+        "brand": "High5",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "EPC",
+        "brand": "lonestar new",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "EPC",
+        "brand": "Spree",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "EPC",
+        "brand": "Spinfinite2",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "EPC",
+        "brand": "SweetSweepsGameTime",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "GAMETIME DIGITAL",
+        "brand": "LuckyBunny",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "GAMETIME DIGITAL",
+        "brand": "CoinsBack",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "GAMETIME DIGITAL",
+        "brand": "SweepShark",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "GAMETIME DIGITAL",
+        "brand": "Rolla",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "GAMETIME DIGITAL",
+        "brand": "Lucky Vibe CA",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "GAMETIME DIGITAL",
+        "brand": "Mega Spinz",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "GAMETIME DIGITAL",
+        "brand": "Baba",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "GAMETIME DIGITAL",
+        "brand": "BankRolla",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "GAMETIME DIGITAL",
+        "brand": "ChipNWin",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "GAMETIME DIGITAL",
+        "brand": "High5Casino",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "GAMETIME DIGITAL",
+        "brand": "Lonestar",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "GAMETIME DIGITAL",
+        "brand": "McLuck",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "GAMETIME DIGITAL",
+        "brand": "Mega Bonanza",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "GAMETIME DIGITAL",
+        "brand": "Pulsz SEO",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "GAMETIME DIGITAL",
+        "brand": "Jackpotgo",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "GAMETIME DIGITAL",
+        "brand": "Legendz",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "GAMETIME DIGITAL",
+        "brand": "Dorados",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "GAMETIME DIGITAL",
+        "brand": "CrownsCoins",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "GAMETIME DIGITAL",
+        "brand": "Rolling Riches",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "GAMETIME DIGITAL",
+        "brand": "VegasWays",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "GAMETIME DIGITAL",
+        "brand": "Sweet Sweep",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "GAMETIME DIGITAL",
+        "brand": "The Boss",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "GAMETIME DIGITAL",
+        "brand": "theWinZone",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "SPLASH",
+        "brand": "splashcoins",
+        "category": "sweepstakes"
+      },
+      {
+        "advertiser": "ACEBET",
+        "brand": "Acebet",
+        "category": "casino"
+      },
+      {
+        "advertiser": "ALL IN AFFILIATES",
+        "brand": "SpinRise",
+        "category": "casino"
+      },
+      {
+        "advertiser": "ALL IN AFFILIATES",
+        "brand": "Midarion",
+        "category": "casino"
+      },
+      {
+        "advertiser": "ALL IN AFFILIATES",
+        "brand": "Revolution Casino",
+        "category": "casino"
+      },
+      {
+        "advertiser": "ALL IN AFFILIATES",
+        "brand": "Casino Smartlink",
+        "category": "casino"
+      },
+      {
+        "advertiser": "ALL IN AFFILIATES",
+        "brand": "Bitkingz",
+        "category": "casino"
+      },
+      {
+        "advertiser": "ALL IN AFFILIATES",
+        "brand": "BetRiot",
+        "category": "casino"
+      },
+      {
+        "advertiser": "ALL IN AFFILIATES",
+        "brand": "Betnjet",
+        "category": "casino"
+      },
+      {
+        "advertiser": "ALL IN AFFILIATES",
+        "brand": "BetAlice",
+        "category": "casino"
+      },
+      {
+        "advertiser": "ALL IN AFFILIATES",
+        "brand": "QBet",
+        "category": "casino"
+      },
+      {
+        "advertiser": "ALL IN AFFILIATES",
+        "brand": "Lussurio",
+        "category": "casino"
+      },
+      {
+        "advertiser": "ALL IN AFFILIATES",
+        "brand": "RodeoSlot Casino",
+        "category": "casino"
+      },
+      {
+        "advertiser": "ALL IN AFFILIATES",
+        "brand": "Seven Casino",
+        "category": "casino"
+      },
+      {
+        "advertiser": "ALL IN AFFILIATES",
+        "brand": "Smash Casino",
+        "category": "casino"
+      },
+      {
+        "advertiser": "ALL IN AFFILIATES",
+        "brand": "SpinPanda",
+        "category": "casino"
+      },
+      {
+        "advertiser": "ALL IN AFFILIATES",
+        "brand": "Millioner",
+        "category": "casino"
+      },
+      {
+        "advertiser": "BASHER AGENCY",
+        "brand": "5Bet",
+        "category": "casino"
+      },
+      {
+        "advertiser": "EPC",
+        "brand": "CasinoClick",
+        "category": "casino"
+      },
+      {
+        "advertiser": "GAMETIME DIGITAL",
+        "brand": "Rooster.bet CA",
+        "category": "casino"
+      },
+      {
+        "advertiser": "COINSROYALE",
+        "brand": "Coins Royale Las Vegas",
+        "category": "other"
+      },
+      {
+        "advertiser": "IMPACT",
+        "brand": "Freecash",
+        "category": "other"
+      },
+      {
+        "advertiser": "IMPACT",
+        "brand": "Borrowell",
+        "category": "other"
+      },
+      {
+        "advertiser": "IMPACT",
+        "brand": "MOLOTOV",
+        "category": "other"
+      },
+      {
+        "advertiser": "IMPACT",
+        "brand": "Sesame Care",
+        "category": "other"
+      },
+      {
+        "advertiser": "IMPACT",
+        "brand": "Verv Inc.",
+        "category": "other"
+      }
+    ],
+    "inhouse_brands": [
+      "Wannnasee USA LP",
+      "Christmas LP 2",
+      "Bonusclubs",
+      "Jackpotrabbit___c",
+      "Re",
+      "DreamChaser tour",
+      "WinningEmpire CA/NZ",
+      "Sweepzkings",
+      "RoyalCruize CPL",
+      "WinningEmpire US",
+      "Wannnasee CA/NZ & DE LP",
+      "Winning4Fun",
+      "Spin2Win  sweeps LP",
+      "PrizeFlow  sweeps LP",
+      "SuperSlotz sweeps",
+      "Pirates LP"
+    ]
+  },
+  "daily_records": [
+    {
+      "date": "2026-07-01",
+      "teams": {
+        "EMAIL": [
+          12.26,
+          5,
+          0,
+          17.25
+        ],
+        "MEDIA": [
+          103.7,
+          15,
+          2,
+          21.14
+        ],
+        "SOCIAL": [
+          46.95,
+          6,
+          2,
+          32.01
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          5,
+          1,
+          12.28,
+          0.84
+        ],
+        "BASHER AGENCY": [
+          0,
+          0,
+          2.78,
+          0.0
+        ],
+        "CoinsRoyale": [
+          20,
+          2,
+          101.48,
+          127.38
+        ],
+        "EPC": [
+          1,
+          0,
+          8.76,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          7,
+          0,
+          18.92,
+          0.0
+        ],
+        "IMPACT": [
+          0,
+          0,
+          1.12,
+          0.11
+        ],
+        "SPLASH": [
+          0,
+          0,
+          3.34,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          1,
+          0,
+          4.77,
+          0.0
+        ],
+        "Luckyvibe": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Chanced Punt": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          19,
+          2,
+          102.89,
+          115.62
+        ],
+        "CoinsRoyale": [
+          2,
+          0,
+          1.69,
+          16.87
+        ],
+        "SweepSpotGameTime": [
+          0,
+          0,
+          4.05,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          4.91,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          6.09,
+          0.0
+        ],
+        "CoinsBack": [
+          0,
+          0,
+          1.72,
+          0.0
+        ],
+        "SweepShark": [
+          0,
+          0,
+          2.9,
+          0.0
+        ],
+        "Rolla": [
+          0,
+          0,
+          1.77,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          1,
+          0,
+          2.69,
+          0.0
+        ],
+        "Mega Spinz": [
+          0,
+          0,
+          0.01,
+          0.0
+        ],
+        "BankRolla": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "ChipNWin": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "VegasWays": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          0,
+          0,
+          1.74,
+          0.0
+        ],
+        "SpinRise": [
+          0,
+          0,
+          3.99,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          0.55,
+          0.0
+        ],
+        "Revolution Casino": [
+          1,
+          0,
+          0.48,
+          0.0
+        ],
+        "BetAlice": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Millioner": [
+          0,
+          0,
+          0.0,
+          0.4
+        ],
+        "Freecash": [
+          0,
+          0,
+          1.26,
+          0.12
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 1.33,
+        "PrizeFlow  sweeps LP": 1.19,
+        "SuperSlotz sweeps": 0.71,
+        "Pirates LP": 20.52
+      }
+    },
+    {
+      "date": "2026-07-02",
+      "teams": {
+        "EMAIL": [
+          23.07,
+          10,
+          0,
+          32.46
+        ],
+        "MEDIA": [
+          168.19,
+          25,
+          3,
+          34.29
+        ],
+        "SOCIAL": [
+          60.97,
+          7,
+          2,
+          41.58
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          3,
+          0,
+          6.92,
+          0.47
+        ],
+        "BASHER AGENCY": [
+          1,
+          0,
+          4.07,
+          0.0
+        ],
+        "CoinsRoyale": [
+          15,
+          2,
+          74.12,
+          93.04
+        ],
+        "EPC": [
+          1,
+          0,
+          3.54,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          7,
+          0,
+          19.19,
+          0.0
+        ],
+        "IMPACT": [
+          0,
+          0,
+          1.52,
+          0.14
+        ],
+        "SPLASH": [
+          1,
+          0,
+          5.8,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          0,
+          0,
+          4.69,
+          0.0
+        ],
+        "Chanced Punt": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          19,
+          2,
+          104.94,
+          117.91
+        ],
+        "CoinsRoyale": [
+          1,
+          0,
+          0.71,
+          7.14
+        ],
+        "SweepSpotGameTime": [
+          0,
+          0,
+          2.32,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          4.31,
+          0.0
+        ],
+        "LuckyBunny": [
+          0,
+          0,
+          4.36,
+          0.0
+        ],
+        "CoinsBack": [
+          1,
+          1,
+          10.43,
+          0.0
+        ],
+        "SweepShark": [
+          0,
+          0,
+          1.72,
+          0.0
+        ],
+        "Rolla": [
+          1,
+          0,
+          3.74,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          1,
+          0,
+          2.85,
+          0.0
+        ],
+        "BankRolla": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "VegasWays": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Sweet Sweep": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          1,
+          0,
+          6.14,
+          0.0
+        ],
+        "SpinRise": [
+          0,
+          0,
+          4.4,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          1.07,
+          0.0
+        ],
+        "Revolution Casino": [
+          0,
+          0,
+          0.36,
+          0.0
+        ],
+        "Millioner": [
+          1,
+          0,
+          0.0,
+          0.85
+        ],
+        "Freecash": [
+          0,
+          0,
+          0.94,
+          0.09
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.5,
+        "PrizeFlow  sweeps LP": 1.41,
+        "SuperSlotz sweeps": 1.54,
+        "Pirates LP": 40.44
+      }
+    },
+    {
+      "date": "2026-07-03",
+      "teams": {
+        "EMAIL": [
+          38.2,
+          16,
+          1,
+          53.76
+        ],
+        "MEDIA": [
+          178.21,
+          26,
+          3,
+          36.33
+        ],
+        "SOCIAL": [
+          73.35,
+          9,
+          2,
+          50.02
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          1,
+          0,
+          2.38,
+          0.16
+        ],
+        "BASHER AGENCY": [
+          1,
+          0,
+          4.26,
+          0.0
+        ],
+        "CoinsRoyale": [
+          30,
+          3,
+          150.48,
+          188.89
+        ],
+        "EPC": [
+          2,
+          0,
+          10.9,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          7,
+          0,
+          18.09,
+          0.0
+        ],
+        "IMPACT": [
+          0,
+          0,
+          1.21,
+          0.12
+        ],
+        "SPLASH": [
+          0,
+          0,
+          3.69,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          1,
+          0,
+          4.75,
+          0.0
+        ],
+        "Chanced Punt": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          22,
+          2,
+          123.35,
+          138.6
+        ],
+        "CoinsRoyale": [
+          2,
+          0,
+          1.33,
+          13.29
+        ],
+        "SweepSpotGameTime": [
+          1,
+          1,
+          11.63,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          6.11,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          6.2,
+          0.0
+        ],
+        "CoinsBack": [
+          0,
+          0,
+          3.49,
+          0.0
+        ],
+        "SweepShark": [
+          1,
+          0,
+          4.27,
+          0.0
+        ],
+        "Rolla": [
+          0,
+          0,
+          3.45,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          1,
+          0,
+          2.21,
+          0.0
+        ],
+        "Mega Spinz": [
+          0,
+          0,
+          0.01,
+          0.0
+        ],
+        "ChipNWin": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "High5Casino": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Rolling Riches": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "VegasWays": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Sweet Sweep": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          0,
+          0,
+          4.45,
+          0.0
+        ],
+        "SpinRise": [
+          1,
+          1,
+          10.5,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          1.08,
+          0.0
+        ],
+        "Revolution Casino": [
+          1,
+          0,
+          0.45,
+          0.0
+        ],
+        "BetAlice": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Millioner": [
+          1,
+          0,
+          0.0,
+          0.42
+        ],
+        "5Bet": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Freecash": [
+          0,
+          0,
+          1.14,
+          0.11
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.68,
+        "PrizeFlow  sweeps LP": 0.7,
+        "SuperSlotz sweeps": 0.93,
+        "Pirates LP": 41.41
+      }
+    },
+    {
+      "date": "2026-07-04",
+      "teams": {
+        "EMAIL": [
+          26.86,
+          11,
+          0,
+          37.81
+        ],
+        "MEDIA": [
+          212.94,
+          31,
+          3,
+          43.41
+        ],
+        "SOCIAL": [
+          141.8,
+          17,
+          5,
+          96.7
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          3,
+          0,
+          8.39,
+          0.57
+        ],
+        "BASHER AGENCY": [
+          1,
+          0,
+          7.51,
+          0.0
+        ],
+        "CHANCED": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "CoinsRoyale": [
+          34,
+          3,
+          171.13,
+          214.81
+        ],
+        "EPC": [
+          2,
+          0,
+          15.9,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          15,
+          1,
+          41.09,
+          0.0
+        ],
+        "IMPACT": [
+          0,
+          0,
+          0.84,
+          0.08
+        ],
+        "SPLASH": [
+          0,
+          0,
+          3.06,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          0,
+          0,
+          4.21,
+          0.0
+        ],
+        "Spinbara": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Chanced Punt": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          21,
+          2,
+          117.43,
+          131.95
+        ],
+        "CoinsRoyale": [
+          4,
+          1,
+          2.99,
+          29.93
+        ],
+        "SweepSpotGameTime": [
+          0,
+          0,
+          7.71,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          3.32,
+          0.0
+        ],
+        "lonestar new": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          7.37,
+          0.0
+        ],
+        "CoinsBack": [
+          1,
+          0,
+          8.02,
+          0.0
+        ],
+        "SweepShark": [
+          1,
+          0,
+          4.54,
+          0.0
+        ],
+        "Rolla": [
+          1,
+          0,
+          5.28,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          1,
+          0,
+          3.51,
+          0.0
+        ],
+        "BankRolla": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "VegasWays": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Sweet Sweep": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "theWinZone": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          1,
+          0,
+          5.73,
+          0.0
+        ],
+        "SpinRise": [
+          1,
+          0,
+          8.74,
+          0.0
+        ],
+        "Midarion": [
+          1,
+          0,
+          1.71,
+          0.0
+        ],
+        "Revolution Casino": [
+          0,
+          0,
+          0.35,
+          0.0
+        ],
+        "Bitkingz": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "BetAlice": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Millioner": [
+          0,
+          0,
+          0.0,
+          0.4
+        ],
+        "5Bet": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "CasinoClick": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Freecash": [
+          0,
+          0,
+          1.44,
+          0.14
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.59,
+        "PrizeFlow  sweeps LP": 0.75,
+        "SuperSlotz sweeps": 1.3,
+        "Pirates LP": 24.59
+      }
+    },
+    {
+      "date": "2026-07-05",
+      "teams": {
+        "EMAIL": [
+          13.65,
+          6,
+          0,
+          19.22
+        ],
+        "MEDIA": [
+          240.21,
+          35,
+          4,
+          48.97
+        ],
+        "SOCIAL": [
+          49.81,
+          6,
+          2,
+          33.96
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          3,
+          0,
+          7.66,
+          0.52
+        ],
+        "BASHER AGENCY": [
+          1,
+          0,
+          4.65,
+          0.0
+        ],
+        "CHANCED": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "CoinsRoyale": [
+          40,
+          4,
+          203.16,
+          255.02
+        ],
+        "EPC": [
+          3,
+          0,
+          19.53,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          6,
+          0,
+          17.02,
+          0.0
+        ],
+        "IMPACT": [
+          0,
+          0,
+          0.87,
+          0.08
+        ],
+        "SPLASH": [
+          1,
+          0,
+          5.69,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          0,
+          0,
+          4.44,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          22,
+          2,
+          123.45,
+          138.71
+        ],
+        "CoinsRoyale": [
+          5,
+          1,
+          3.65,
+          36.53
+        ],
+        "SweepSpotGameTime": [
+          0,
+          0,
+          7.24,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          4.04,
+          0.0
+        ],
+        "High5": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "SweetSweepsGameTime": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          1,
+          13.9,
+          0.0
+        ],
+        "CoinsBack": [
+          0,
+          0,
+          4.01,
+          0.0
+        ],
+        "SweepShark": [
+          0,
+          0,
+          2.33,
+          0.0
+        ],
+        "Rolla": [
+          1,
+          0,
+          4.44,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          0,
+          0,
+          1.08,
+          0.0
+        ],
+        "Mega Spinz": [
+          0,
+          0,
+          0.01,
+          0.0
+        ],
+        "Baba": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "BankRolla": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Sweet Sweep": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          1,
+          0,
+          5.6,
+          0.0
+        ],
+        "SpinRise": [
+          0,
+          0,
+          3.56,
+          0.0
+        ],
+        "Midarion": [
+          1,
+          0,
+          2.28,
+          0.0
+        ],
+        "Revolution Casino": [
+          0,
+          0,
+          0.38,
+          0.0
+        ],
+        "BetAlice": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "QBet": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Millioner": [
+          1,
+          0,
+          0.0,
+          0.62
+        ],
+        "CasinoClick": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Rooster.bet CA": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Freecash": [
+          0,
+          0,
+          0.55,
+          0.05
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.79,
+        "PrizeFlow  sweeps LP": 0.74,
+        "SuperSlotz sweeps": 0.65,
+        "Pirates LP": 27.13
+      }
+    },
+    {
+      "date": "2026-07-06",
+      "teams": {
+        "EMAIL": [
+          23.18,
+          10,
+          0,
+          32.62
+        ],
+        "MEDIA": [
+          185.25,
+          27,
+          3,
+          37.77
+        ],
+        "SOCIAL": [
+          125.92,
+          15,
+          4,
+          85.87
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          2,
+          0,
+          6.23,
+          0.43
+        ],
+        "BASHER AGENCY": [
+          1,
+          0,
+          4.79,
+          0.0
+        ],
+        "CHANCED": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "CoinsRoyale": [
+          18,
+          2,
+          93.02,
+          116.76
+        ],
+        "EPC": [
+          1,
+          0,
+          8.94,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          13,
+          1,
+          34.11,
+          0.0
+        ],
+        "IMPACT": [
+          1,
+          1,
+          1.94,
+          0.19
+        ],
+        "SPLASH": [
+          1,
+          1,
+          8.04,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          1,
+          0,
+          4.94,
+          0.0
+        ],
+        "Chanced Punt": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          42,
+          4,
+          229.38,
+          257.74
+        ],
+        "CoinsRoyale": [
+          3,
+          1,
+          2.38,
+          23.85
+        ],
+        "SweepSpotGameTime": [
+          0,
+          0,
+          7.56,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          3.02,
+          0.0
+        ],
+        "Spinfinite2": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          8.94,
+          0.0
+        ],
+        "CoinsBack": [
+          0,
+          0,
+          3.66,
+          0.0
+        ],
+        "SweepShark": [
+          1,
+          0,
+          4.44,
+          0.0
+        ],
+        "Rolla": [
+          1,
+          1,
+          8.26,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          0,
+          0,
+          0.83,
+          0.0
+        ],
+        "Mega Spinz": [
+          1,
+          0,
+          0.01,
+          0.0
+        ],
+        "BankRolla": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "VegasWays": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Sweet Sweep": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "theWinZone": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          0,
+          0,
+          1.96,
+          0.0
+        ],
+        "SpinRise": [
+          0,
+          0,
+          3.61,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          0.99,
+          0.0
+        ],
+        "Revolution Casino": [
+          1,
+          0,
+          0.5,
+          0.0
+        ],
+        "Millioner": [
+          1,
+          0,
+          0.0,
+          0.46
+        ],
+        "CasinoClick": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Freecash": [
+          0,
+          0,
+          1.5,
+          0.14
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.94,
+        "PrizeFlow  sweeps LP": 1.44,
+        "SuperSlotz sweeps": 0.7,
+        "Pirates LP": 25.8
+      }
+    },
+    {
+      "date": "2026-07-07",
+      "teams": {
+        "EMAIL": [
+          35.5,
+          15,
+          1,
+          49.96
+        ],
+        "MEDIA": [
+          132.89,
+          19,
+          2,
+          27.09
+        ],
+        "SOCIAL": [
+          48.96,
+          6,
+          2,
+          33.39
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          2,
+          0,
+          4.1,
+          0.28
+        ],
+        "BASHER AGENCY": [
+          1,
+          0,
+          4.09,
+          0.0
+        ],
+        "CoinsRoyale": [
+          24,
+          2,
+          121.37,
+          152.36
+        ],
+        "EPC": [
+          2,
+          0,
+          10.69,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          7,
+          0,
+          17.38,
+          0.0
+        ],
+        "IMPACT": [
+          1,
+          1,
+          1.68,
+          0.16
+        ],
+        "SPLASH": [
+          0,
+          0,
+          3.28,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          0,
+          0,
+          3.9,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          23,
+          2,
+          126.34,
+          141.97
+        ],
+        "CoinsRoyale": [
+          3,
+          0,
+          1.86,
+          18.65
+        ],
+        "SweepSpotGameTime": [
+          0,
+          0,
+          7.1,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          4.3,
+          0.0
+        ],
+        "High5": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Spinfinite2": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          5.35,
+          0.0
+        ],
+        "CoinsBack": [
+          1,
+          0,
+          8.45,
+          0.0
+        ],
+        "SweepShark": [
+          0,
+          0,
+          3.15,
+          0.0
+        ],
+        "Rolla": [
+          1,
+          0,
+          6.9,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          2,
+          0,
+          4.99,
+          0.0
+        ],
+        "Mega Spinz": [
+          0,
+          0,
+          0.01,
+          0.0
+        ],
+        "Baba": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Lonestar": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Sweet Sweep": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          0,
+          0,
+          2.12,
+          0.0
+        ],
+        "SpinRise": [
+          0,
+          0,
+          2.29,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          1.26,
+          0.0
+        ],
+        "Revolution Casino": [
+          1,
+          0,
+          0.47,
+          0.0
+        ],
+        "BetAlice": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Millioner": [
+          0,
+          0,
+          0.0,
+          0.28
+        ],
+        "5Bet": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "CasinoClick": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Freecash": [
+          0,
+          0,
+          1.2,
+          0.11
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.64,
+        "PrizeFlow  sweeps LP": 0.71,
+        "SuperSlotz sweeps": 0.74,
+        "Pirates LP": 21.89
+      }
+    },
+    {
+      "date": "2026-07-08",
+      "teams": {
+        "EMAIL": [
+          15.54,
+          7,
+          0,
+          21.87
+        ],
+        "MEDIA": [
+          167.61,
+          25,
+          3,
+          34.17
+        ],
+        "SOCIAL": [
+          50.99,
+          6,
+          2,
+          34.77
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          3,
+          0,
+          6.96,
+          0.48
+        ],
+        "BASHER AGENCY": [
+          2,
+          0,
+          7.6,
+          0.0
+        ],
+        "CHANCED": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "CoinsRoyale": [
+          13,
+          1,
+          65.64,
+          82.4
+        ],
+        "EPC": [
+          2,
+          0,
+          10.43,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          4,
+          0,
+          10.37,
+          0.0
+        ],
+        "IMPACT": [
+          1,
+          1,
+          1.77,
+          0.17
+        ],
+        "SPLASH": [
+          0,
+          0,
+          3.83,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          0,
+          0,
+          4.42,
+          0.0
+        ],
+        "Chanced Punt": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          26,
+          3,
+          144.19,
+          162.02
+        ],
+        "CoinsRoyale": [
+          1,
+          0,
+          1.05,
+          10.5
+        ],
+        "SweepSpotGameTime": [
+          1,
+          0,
+          9.22,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          2.67,
+          0.0
+        ],
+        "lonestar new": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Spree": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          7.41,
+          0.0
+        ],
+        "CoinsBack": [
+          0,
+          0,
+          3.88,
+          0.0
+        ],
+        "SweepShark": [
+          1,
+          0,
+          7.22,
+          0.0
+        ],
+        "Rolla": [
+          0,
+          0,
+          2.72,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          2,
+          1,
+          5.13,
+          0.0
+        ],
+        "Jackpotgo": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "VegasWays": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Sweet Sweep": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "theWinZone": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          1,
+          0,
+          6.14,
+          0.0
+        ],
+        "SpinRise": [
+          0,
+          0,
+          3.36,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          0.83,
+          0.0
+        ],
+        "Revolution Casino": [
+          0,
+          0,
+          0.44,
+          0.0
+        ],
+        "BetAlice": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Millioner": [
+          1,
+          0,
+          0.0,
+          0.66
+        ],
+        "CasinoClick": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Freecash": [
+          0,
+          0,
+          1.25,
+          0.12
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.58,
+        "PrizeFlow  sweeps LP": 0.91,
+        "SuperSlotz sweeps": 0.71,
+        "Pirates LP": 22.07
+      }
+    },
+    {
+      "date": "2026-07-09",
+      "teams": {
+        "EMAIL": [
+          27.59,
+          12,
+          0,
+          38.83
+        ],
+        "MEDIA": [
+          225.77,
+          33,
+          4,
+          46.03
+        ],
+        "SOCIAL": [
+          31.59,
+          4,
+          1,
+          21.54
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          2,
+          0,
+          6.55,
+          0.45
+        ],
+        "BASHER AGENCY": [
+          1,
+          0,
+          4.85,
+          0.0
+        ],
+        "CHANCED": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "CoinsRoyale": [
+          23,
+          2,
+          113.66,
+          142.68
+        ],
+        "EPC": [
+          2,
+          0,
+          13.11,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          7,
+          0,
+          18.85,
+          0.0
+        ],
+        "IMPACT": [
+          1,
+          1,
+          2.21,
+          0.21
+        ],
+        "SPLASH": [
+          0,
+          0,
+          4.49,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          1,
+          0,
+          6.35,
+          0.0
+        ],
+        "Luckyvibe": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Chanced Punt": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          20,
+          2,
+          112.4,
+          126.3
+        ],
+        "CoinsRoyale": [
+          2,
+          0,
+          1.37,
+          13.72
+        ],
+        "SweepSpotGameTime": [
+          0,
+          0,
+          7.21,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          3.93,
+          0.0
+        ],
+        "lonestar new": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          7.26,
+          0.0
+        ],
+        "CoinsBack": [
+          0,
+          0,
+          3.22,
+          0.0
+        ],
+        "SweepShark": [
+          0,
+          0,
+          3.22,
+          0.0
+        ],
+        "Rolla": [
+          0,
+          0,
+          1.46,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          1,
+          0,
+          1.87,
+          0.0
+        ],
+        "ChipNWin": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Sweet Sweep": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          1,
+          0,
+          7.58,
+          0.0
+        ],
+        "SpinRise": [
+          1,
+          0,
+          10.23,
+          0.0
+        ],
+        "Midarion": [
+          1,
+          0,
+          1.4,
+          0.0
+        ],
+        "Revolution Casino": [
+          1,
+          0,
+          0.53,
+          0.0
+        ],
+        "Millioner": [
+          0,
+          0,
+          0.0,
+          0.33
+        ],
+        "Freecash": [
+          1,
+          1,
+          1.66,
+          0.16
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.75,
+        "PrizeFlow  sweeps LP": 0.82,
+        "SuperSlotz sweeps": 0.91,
+        "Pirates LP": 50.62
+      }
+    },
+    {
+      "date": "2026-07-10",
+      "teams": {
+        "EMAIL": [
+          33.16,
+          14,
+          1,
+          46.67
+        ],
+        "MEDIA": [
+          112.45,
+          16,
+          2,
+          22.93
+        ],
+        "SOCIAL": [
+          59.86,
+          7,
+          2,
+          40.82
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          3,
+          0,
+          7.05,
+          0.48
+        ],
+        "BASHER AGENCY": [
+          0,
+          0,
+          2.92,
+          0.0
+        ],
+        "CoinsRoyale": [
+          51,
+          5,
+          258.2,
+          324.11
+        ],
+        "EPC": [
+          1,
+          0,
+          6.57,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          8,
+          0,
+          22.32,
+          0.0
+        ],
+        "IMPACT": [
+          0,
+          0,
+          1.46,
+          0.14
+        ],
+        "SPLASH": [
+          0,
+          0,
+          1.68,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          0,
+          0,
+          3.37,
+          0.0
+        ],
+        "Spinbara": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Chanced Punt": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          10,
+          1,
+          56.18,
+          63.12
+        ],
+        "CoinsRoyale": [
+          3,
+          0,
+          1.84,
+          18.42
+        ],
+        "SweepSpotGameTime": [
+          0,
+          0,
+          8.61,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          3.79,
+          0.0
+        ],
+        "High5": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          1,
+          12.3,
+          0.0
+        ],
+        "CoinsBack": [
+          0,
+          0,
+          2.33,
+          0.0
+        ],
+        "SweepShark": [
+          1,
+          0,
+          4.21,
+          0.0
+        ],
+        "Rolla": [
+          1,
+          0,
+          6.89,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          0,
+          0,
+          1.78,
+          0.0
+        ],
+        "ChipNWin": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "CrownsCoins": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "VegasWays": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          0,
+          0,
+          3.98,
+          0.0
+        ],
+        "SpinRise": [
+          0,
+          0,
+          4.76,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          0.98,
+          0.0
+        ],
+        "Revolution Casino": [
+          0,
+          0,
+          0.42,
+          0.0
+        ],
+        "BetRiot": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Millioner": [
+          0,
+          0,
+          0.0,
+          0.29
+        ],
+        "Freecash": [
+          0,
+          0,
+          1.39,
+          0.13
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.89,
+        "PrizeFlow  sweeps LP": 1.04,
+        "SuperSlotz sweeps": 1.04,
+        "Pirates LP": 26.22
+      }
+    },
+    {
+      "date": "2026-07-11",
+      "teams": {
+        "EMAIL": [
+          27.65,
+          12,
+          0,
+          38.91
+        ],
+        "MEDIA": [
+          215.9,
+          32,
+          3,
+          44.02
+        ],
+        "SOCIAL": [
+          51.12,
+          6,
+          2,
+          34.86
+        ]
+      },
+      "advertisers": {
+        "AFF 66": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "ALL IN AFFILIATES": [
+          2,
+          0,
+          5.38,
+          0.37
+        ],
+        "BASHER AGENCY": [
+          2,
+          1,
+          8.49,
+          0.0
+        ],
+        "CoinsRoyale": [
+          30,
+          3,
+          149.4,
+          187.53
+        ],
+        "EPC": [
+          3,
+          1,
+          22.8,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          7,
+          0,
+          18.67,
+          0.0
+        ],
+        "IMPACT": [
+          0,
+          0,
+          1.1,
+          0.1
+        ],
+        "SPLASH": [
+          1,
+          0,
+          5.11,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          0,
+          0,
+          3.89,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          10,
+          1,
+          51.78,
+          58.18
+        ],
+        "CoinsRoyale": [
+          3,
+          0,
+          1.94,
+          19.36
+        ],
+        "SweepSpotGameTime": [
+          1,
+          0,
+          9.04,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          3.59,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          7.63,
+          0.0
+        ],
+        "CoinsBack": [
+          0,
+          0,
+          3.71,
+          0.0
+        ],
+        "SweepShark": [
+          1,
+          0,
+          4.18,
+          0.0
+        ],
+        "Rolla": [
+          1,
+          0,
+          4.17,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          1,
+          0,
+          2.29,
+          0.0
+        ],
+        "Mega Bonanza": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          1,
+          0,
+          5.23,
+          0.0
+        ],
+        "SpinRise": [
+          0,
+          0,
+          4.55,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          0.98,
+          0.0
+        ],
+        "Revolution Casino": [
+          0,
+          0,
+          0.42,
+          0.0
+        ],
+        "BetAlice": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "QBet": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Millioner": [
+          1,
+          0,
+          0.0,
+          0.46
+        ],
+        "CasinoClick": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Freecash": [
+          0,
+          0,
+          1.47,
+          0.14
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.66,
+        "PrizeFlow  sweeps LP": 0.88,
+        "SuperSlotz sweeps": 0.99,
+        "Pirates LP": 27.79
+      }
+    },
+    {
+      "date": "2026-07-12",
+      "teams": {
+        "EMAIL": [
+          38.73,
+          16,
+          1,
+          54.5
+        ],
+        "MEDIA": [
+          68.31,
+          10,
+          1,
+          13.93
+        ],
+        "SOCIAL": [
+          53.25,
+          6,
+          2,
+          36.31
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          2,
+          0,
+          5.01,
+          0.34
+        ],
+        "BASHER AGENCY": [
+          2,
+          0,
+          7.99,
+          0.0
+        ],
+        "CHANCED": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "CoinsRoyale": [
+          25,
+          3,
+          125.55,
+          157.6
+        ],
+        "EPC": [
+          1,
+          0,
+          8.64,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          7,
+          0,
+          19.38,
+          0.0
+        ],
+        "IMPACT": [
+          0,
+          0,
+          1.51,
+          0.14
+        ],
+        "SPLASH": [
+          0,
+          0,
+          4.36,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          0,
+          0,
+          4.6,
+          0.0
+        ],
+        "Chanced Punt": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          40,
+          4,
+          221.88,
+          249.32
+        ],
+        "CoinsRoyale": [
+          2,
+          0,
+          1.52,
+          15.19
+        ],
+        "SweepSpotGameTime": [
+          0,
+          0,
+          7.05,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          2.84,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          10.49,
+          0.0
+        ],
+        "CoinsBack": [
+          0,
+          0,
+          3.85,
+          0.0
+        ],
+        "SweepShark": [
+          1,
+          0,
+          3.94,
+          0.0
+        ],
+        "Rolla": [
+          1,
+          0,
+          8.0,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          0,
+          0,
+          0.84,
+          0.0
+        ],
+        "Baba": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "BankRolla": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Sweet Sweep": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          2,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          0,
+          0,
+          3.07,
+          0.0
+        ],
+        "SpinRise": [
+          0,
+          0,
+          3.34,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          0.82,
+          0.0
+        ],
+        "Revolution Casino": [
+          0,
+          0,
+          0.44,
+          0.0
+        ],
+        "BetAlice": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Millioner": [
+          1,
+          0,
+          0.0,
+          0.87
+        ],
+        "Freecash": [
+          0,
+          0,
+          1.39,
+          0.13
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.64,
+        "PrizeFlow  sweeps LP": 0.73,
+        "SuperSlotz sweeps": 0.62,
+        "Pirates LP": 32.06
+      }
+    },
+    {
+      "date": "2026-07-13",
+      "teams": {
+        "EMAIL": [
+          33.9,
+          14,
+          1,
+          47.71
+        ],
+        "MEDIA": [
+          234.26,
+          34,
+          4,
+          47.76
+        ],
+        "SOCIAL": [
+          75.0,
+          9,
+          2,
+          51.14
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          1,
+          0,
+          4.03,
+          0.28
+        ],
+        "BASHER AGENCY": [
+          1,
+          0,
+          3.12,
+          0.0
+        ],
+        "CoinsRoyale": [
+          22,
+          2,
+          110.78,
+          139.07
+        ],
+        "EPC": [
+          2,
+          0,
+          12.01,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          7,
+          0,
+          17.49,
+          0.0
+        ],
+        "IMPACT": [
+          0,
+          0,
+          0.66,
+          0.06
+        ],
+        "SPLASH": [
+          0,
+          0,
+          3.47,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          1,
+          0,
+          4.77,
+          0.0
+        ],
+        "Luckyvibe": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Chanced Punt": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          16,
+          2,
+          85.36,
+          95.91
+        ],
+        "CoinsRoyale": [
+          2,
+          0,
+          1.74,
+          17.46
+        ],
+        "SweepSpotGameTime": [
+          0,
+          0,
+          6.66,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          5.11,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          6.9,
+          0.0
+        ],
+        "CoinsBack": [
+          0,
+          0,
+          2.28,
+          0.0
+        ],
+        "SweepShark": [
+          1,
+          0,
+          4.03,
+          0.0
+        ],
+        "Rolla": [
+          0,
+          0,
+          3.06,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          0,
+          0,
+          1.29,
+          0.0
+        ],
+        "BankRolla": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          1,
+          0,
+          4.93,
+          0.0
+        ],
+        "SpinRise": [
+          1,
+          0,
+          4.82,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          0.49,
+          0.0
+        ],
+        "Revolution Casino": [
+          0,
+          0,
+          0.29,
+          0.0
+        ],
+        "Seven Casino": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Millioner": [
+          0,
+          0,
+          0.0,
+          0.21
+        ],
+        "Freecash": [
+          1,
+          1,
+          1.8,
+          0.17
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.68,
+        "PrizeFlow  sweeps LP": 0.9,
+        "SuperSlotz sweeps": 0.75,
+        "Pirates LP": 19.39
+      }
+    },
+    {
+      "date": "2026-07-14",
+      "teams": {
+        "EMAIL": [
+          35.13,
+          15,
+          1,
+          49.44
+        ],
+        "MEDIA": [
+          224.31,
+          33,
+          3,
+          45.73
+        ],
+        "SOCIAL": [
+          48.28,
+          6,
+          2,
+          32.92
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          3,
+          0,
+          9.23,
+          0.63
+        ],
+        "BASHER AGENCY": [
+          1,
+          0,
+          3.82,
+          0.0
+        ],
+        "CHANCED": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "CoinsRoyale": [
+          24,
+          3,
+          122.0,
+          153.14
+        ],
+        "EPC": [
+          2,
+          0,
+          12.86,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          13,
+          1,
+          34.91,
+          0.0
+        ],
+        "IMPACT": [
+          0,
+          0,
+          1.09,
+          0.1
+        ],
+        "SPLASH": [
+          0,
+          0,
+          4.27,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          1,
+          1,
+          10.03,
+          0.0
+        ],
+        "Chanced Punt": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          26,
+          3,
+          144.99,
+          162.92
+        ],
+        "CoinsRoyale": [
+          2,
+          0,
+          1.68,
+          16.79
+        ],
+        "SweepSpotGameTime": [
+          0,
+          0,
+          8.93,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          3.75,
+          0.0
+        ],
+        "lonestar new": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Spinfinite2": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          8.53,
+          0.0
+        ],
+        "CoinsBack": [
+          0,
+          0,
+          2.97,
+          0.0
+        ],
+        "SweepShark": [
+          1,
+          0,
+          3.31,
+          0.0
+        ],
+        "Rolla": [
+          0,
+          0,
+          3.34,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          1,
+          0,
+          1.94,
+          0.0
+        ],
+        "Mega Spinz": [
+          0,
+          0,
+          0.01,
+          0.0
+        ],
+        "Lonestar": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "VegasWays": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Sweet Sweep": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          0,
+          0,
+          3.93,
+          0.0
+        ],
+        "SpinRise": [
+          0,
+          0,
+          2.13,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          1.13,
+          0.0
+        ],
+        "Revolution Casino": [
+          0,
+          0,
+          0.38,
+          0.0
+        ],
+        "BetAlice": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Seven Casino": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Millioner": [
+          1,
+          0,
+          0.0,
+          0.49
+        ],
+        "5Bet": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "CasinoClick": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Freecash": [
+          0,
+          0,
+          1.54,
+          0.15
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.72,
+        "PrizeFlow  sweeps LP": 0.72,
+        "SuperSlotz sweeps": 0.7,
+        "Pirates LP": 22.32
+      }
+    },
+    {
+      "date": "2026-07-15",
+      "teams": {
+        "EMAIL": [
+          35.23,
+          15,
+          1,
+          49.58
+        ],
+        "MEDIA": [
+          145.35,
+          21,
+          2,
+          29.63
+        ],
+        "SOCIAL": [
+          53.11,
+          6,
+          2,
+          36.22
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          2,
+          0,
+          6.52,
+          0.45
+        ],
+        "BASHER AGENCY": [
+          1,
+          0,
+          3.63,
+          0.0
+        ],
+        "CHANCED": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "CoinsRoyale": [
+          25,
+          3,
+          127.61,
+          160.18
+        ],
+        "EPC": [
+          0,
+          0,
+          3.13,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          9,
+          1,
+          24.98,
+          0.0
+        ],
+        "IMPACT": [
+          1,
+          1,
+          2.24,
+          0.21
+        ],
+        "SPLASH": [
+          1,
+          0,
+          5.31,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          0,
+          0,
+          3.75,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          26,
+          3,
+          143.92,
+          161.72
+        ],
+        "CoinsRoyale": [
+          4,
+          1,
+          3.34,
+          33.37
+        ],
+        "SweepSpotGameTime": [
+          1,
+          0,
+          9.64,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          4.92,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          7.55,
+          0.0
+        ],
+        "CoinsBack": [
+          0,
+          0,
+          3.73,
+          0.0
+        ],
+        "SweepShark": [
+          1,
+          0,
+          4.47,
+          0.0
+        ],
+        "Rolla": [
+          1,
+          0,
+          3.87,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          1,
+          0,
+          2.13,
+          0.0
+        ],
+        "Baba": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "BankRolla": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Pulsz SEO": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Sweet Sweep": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          1,
+          0,
+          7.87,
+          0.0
+        ],
+        "SpinRise": [
+          0,
+          0,
+          4.16,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          1.39,
+          0.0
+        ],
+        "Revolution Casino": [
+          0,
+          0,
+          0.28,
+          0.0
+        ],
+        "BetAlice": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Millioner": [
+          1,
+          0,
+          0.0,
+          0.49
+        ],
+        "Rooster.bet CA": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Freecash": [
+          0,
+          0,
+          1.3,
+          0.12
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.6,
+        "PrizeFlow  sweeps LP": 0.73,
+        "SuperSlotz sweeps": 0.45,
+        "Pirates LP": 47.25
+      }
+    },
+    {
+      "date": "2026-07-16",
+      "teams": {
+        "EMAIL": [
+          29.12,
+          12,
+          0,
+          40.98
+        ],
+        "MEDIA": [
+          195.03,
+          29,
+          3,
+          39.76
+        ],
+        "SOCIAL": [
+          37.0,
+          4,
+          1,
+          25.23
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          3,
+          0,
+          8.0,
+          0.55
+        ],
+        "BASHER AGENCY": [
+          1,
+          0,
+          7.36,
+          0.0
+        ],
+        "CHANCED": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "CoinsRoyale": [
+          53,
+          5,
+          264.95,
+          332.58
+        ],
+        "EPC": [
+          2,
+          0,
+          9.9,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          6,
+          0,
+          16.63,
+          0.0
+        ],
+        "IMPACT": [
+          0,
+          0,
+          0.96,
+          0.09
+        ],
+        "SPLASH": [
+          0,
+          0,
+          4.86,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          0,
+          0,
+          2.93,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          24,
+          2,
+          131.95,
+          148.27
+        ],
+        "CoinsRoyale": [
+          2,
+          0,
+          1.71,
+          17.1
+        ],
+        "SweepSpotGameTime": [
+          0,
+          0,
+          3.85,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          3.54,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          11.94,
+          0.0
+        ],
+        "CoinsBack": [
+          0,
+          0,
+          1.87,
+          0.0
+        ],
+        "SweepShark": [
+          1,
+          0,
+          3.71,
+          0.0
+        ],
+        "Rolla": [
+          1,
+          0,
+          5.0,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          1,
+          0,
+          2.74,
+          0.0
+        ],
+        "Mega Spinz": [
+          1,
+          0,
+          0.01,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "VegasWays": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Sweet Sweep": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          2,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          0,
+          0,
+          4.55,
+          0.0
+        ],
+        "SpinRise": [
+          1,
+          0,
+          5.42,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          0.76,
+          0.0
+        ],
+        "Revolution Casino": [
+          1,
+          0,
+          0.45,
+          0.0
+        ],
+        "BetRiot": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "BetAlice": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Millioner": [
+          1,
+          0,
+          0.0,
+          0.42
+        ],
+        "5Bet": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Freecash": [
+          0,
+          0,
+          1.12,
+          0.11
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.38,
+        "PrizeFlow  sweeps LP": 0.65,
+        "SuperSlotz sweeps": 0.68,
+        "Pirates LP": 9.44
+      }
+    },
+    {
+      "date": "2026-07-17",
+      "teams": {
+        "EMAIL": [
+          72.87,
+          31,
+          1,
+          102.56
+        ],
+        "MEDIA": [
+          167.24,
+          24,
+          3,
+          34.1
+        ],
+        "SOCIAL": [
+          59.42,
+          7,
+          2,
+          40.52
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          1,
+          0,
+          2.25,
+          0.15
+        ],
+        "BASHER AGENCY": [
+          1,
+          0,
+          4.19,
+          0.0
+        ],
+        "CHANCED": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "CoinsRoyale": [
+          19,
+          2,
+          94.04,
+          118.04
+        ],
+        "EPC": [
+          3,
+          1,
+          19.86,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          14,
+          1,
+          36.27,
+          0.0
+        ],
+        "IMPACT": [
+          0,
+          0,
+          1.06,
+          0.1
+        ],
+        "SPLASH": [
+          0,
+          0,
+          4.21,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          1,
+          0,
+          5.42,
+          0.0
+        ],
+        "Chanced Punt": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          11,
+          1,
+          61.47,
+          69.07
+        ],
+        "CoinsRoyale": [
+          2,
+          0,
+          1.7,
+          17.01
+        ],
+        "SweepSpotGameTime": [
+          0,
+          0,
+          6.27,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          3.93,
+          0.0
+        ],
+        "High5": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "LuckyBunny": [
+          0,
+          0,
+          2.79,
+          0.0
+        ],
+        "CoinsBack": [
+          0,
+          0,
+          3.94,
+          0.0
+        ],
+        "SweepShark": [
+          1,
+          0,
+          3.91,
+          0.0
+        ],
+        "Rolla": [
+          1,
+          0,
+          4.45,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          1,
+          0,
+          2.74,
+          0.0
+        ],
+        "Legendz": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "VegasWays": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Sweet Sweep": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          0,
+          0,
+          4.01,
+          0.0
+        ],
+        "SpinRise": [
+          1,
+          0,
+          5.42,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          0.49,
+          0.0
+        ],
+        "Revolution Casino": [
+          1,
+          0,
+          0.45,
+          0.0
+        ],
+        "Millioner": [
+          0,
+          0,
+          0.0,
+          0.19
+        ],
+        "Freecash": [
+          0,
+          0,
+          1.39,
+          0.13
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.55,
+        "PrizeFlow  sweeps LP": 0.73,
+        "SuperSlotz sweeps": 1.74,
+        "Pirates LP": 20.68
+      }
+    },
+    {
+      "date": "2026-07-18",
+      "teams": {
+        "EMAIL": [
+          33.83,
+          14,
+          1,
+          47.61
+        ],
+        "MEDIA": [
+          171.11,
+          25,
+          3,
+          34.89
+        ],
+        "SOCIAL": [
+          52.88,
+          6,
+          2,
+          36.06
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          2,
+          0,
+          4.25,
+          0.29
+        ],
+        "BASHER AGENCY": [
+          1,
+          0,
+          4.48,
+          0.0
+        ],
+        "CoinsRoyale": [
+          35,
+          4,
+          173.98,
+          218.39
+        ],
+        "EPC": [
+          2,
+          0,
+          15.6,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          3,
+          0,
+          8.27,
+          0.0
+        ],
+        "IMPACT": [
+          0,
+          0,
+          1.06,
+          0.1
+        ],
+        "SPLASH": [
+          0,
+          0,
+          3.77,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          0,
+          0,
+          2.02,
+          0.0
+        ],
+        "Luckyvibe": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          16,
+          2,
+          85.24,
+          95.78
+        ],
+        "CoinsRoyale": [
+          1,
+          0,
+          0.79,
+          7.9
+        ],
+        "SweepSpotGameTime": [
+          1,
+          0,
+          8.94,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          3.28,
+          0.0
+        ],
+        "High5": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          7.58,
+          0.0
+        ],
+        "CoinsBack": [
+          1,
+          0,
+          5.84,
+          0.0
+        ],
+        "SweepShark": [
+          1,
+          0,
+          4.37,
+          0.0
+        ],
+        "Rolla": [
+          1,
+          0,
+          5.57,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          0,
+          0,
+          1.7,
+          0.0
+        ],
+        "Mega Spinz": [
+          1,
+          0,
+          0.01,
+          0.0
+        ],
+        "BankRolla": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "ChipNWin": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Sweet Sweep": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "theWinZone": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          1,
+          0,
+          5.48,
+          0.0
+        ],
+        "SpinRise": [
+          0,
+          0,
+          4.25,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          1.31,
+          0.0
+        ],
+        "Revolution Casino": [
+          0,
+          0,
+          0.33,
+          0.0
+        ],
+        "QBet": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Millioner": [
+          1,
+          0,
+          0.0,
+          0.48
+        ],
+        "5Bet": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Freecash": [
+          1,
+          1,
+          2.03,
+          0.19
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.7,
+        "PrizeFlow  sweeps LP": 0.97,
+        "SuperSlotz sweeps": 0.92,
+        "Pirates LP": 30.63
+      }
+    },
+    {
+      "date": "2026-07-19",
+      "teams": {
+        "EMAIL": [
+          25.99,
+          11,
+          0,
+          36.58
+        ],
+        "MEDIA": [
+          154.98,
+          23,
+          2,
+          31.6
+        ],
+        "SOCIAL": [
+          77.33,
+          9,
+          3,
+          52.73
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          3,
+          0,
+          7.11,
+          0.49
+        ],
+        "BASHER AGENCY": [
+          1,
+          0,
+          3.84,
+          0.0
+        ],
+        "CHANCED": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "CoinsRoyale": [
+          28,
+          3,
+          142.6,
+          179.0
+        ],
+        "EPC": [
+          1,
+          0,
+          9.82,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          8,
+          0,
+          20.41,
+          0.0
+        ],
+        "IMPACT": [
+          0,
+          0,
+          0.51,
+          0.05
+        ],
+        "SPLASH": [
+          1,
+          0,
+          5.25,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          0,
+          0,
+          4.6,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          15,
+          1,
+          82.05,
+          92.2
+        ],
+        "CoinsRoyale": [
+          3,
+          0,
+          1.85,
+          18.55
+        ],
+        "SweepSpotGameTime": [
+          0,
+          0,
+          7.14,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          4.55,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          7.42,
+          0.0
+        ],
+        "CoinsBack": [
+          0,
+          0,
+          1.61,
+          0.0
+        ],
+        "SweepShark": [
+          1,
+          0,
+          3.74,
+          0.0
+        ],
+        "Rolla": [
+          0,
+          0,
+          3.33,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          1,
+          0,
+          4.32,
+          0.0
+        ],
+        "Mega Spinz": [
+          1,
+          0,
+          0.01,
+          0.0
+        ],
+        "BankRolla": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Rolling Riches": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          1,
+          1,
+          8.27,
+          0.0
+        ],
+        "SpinRise": [
+          0,
+          0,
+          3.64,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          0.48,
+          0.0
+        ],
+        "Revolution Casino": [
+          0,
+          0,
+          0.17,
+          0.0
+        ],
+        "QBet": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Millioner": [
+          0,
+          0,
+          0.0,
+          0.37
+        ],
+        "Freecash": [
+          0,
+          0,
+          1.56,
+          0.15
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.66,
+        "PrizeFlow  sweeps LP": 0.79,
+        "SuperSlotz sweeps": 0.72,
+        "Pirates LP": 10.79
+      }
+    },
+    {
+      "date": "2026-07-20",
+      "teams": {
+        "EMAIL": [
+          30.59,
+          13,
+          1,
+          43.05
+        ],
+        "MEDIA": [
+          208.42,
+          31,
+          3,
+          42.49
+        ],
+        "SOCIAL": [
+          65.39,
+          8,
+          2,
+          44.59
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          2,
+          0,
+          5.65,
+          0.39
+        ],
+        "BASHER AGENCY": [
+          1,
+          0,
+          3.05,
+          0.0
+        ],
+        "CoinsRoyale": [
+          20,
+          2,
+          98.73,
+          123.93
+        ],
+        "EPC": [
+          2,
+          0,
+          11.37,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          13,
+          1,
+          33.12,
+          0.0
+        ],
+        "IMPACT": [
+          1,
+          1,
+          2.68,
+          0.26
+        ],
+        "SPLASH": [
+          1,
+          0,
+          6.9,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          0,
+          0,
+          1.65,
+          0.0
+        ],
+        "Spinbara": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          42,
+          4,
+          231.59,
+          260.23
+        ],
+        "CoinsRoyale": [
+          2,
+          0,
+          1.75,
+          17.49
+        ],
+        "SweepSpotGameTime": [
+          0,
+          0,
+          8.58,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          3.44,
+          0.0
+        ],
+        "lonestar new": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          8.73,
+          0.0
+        ],
+        "CoinsBack": [
+          1,
+          0,
+          8.69,
+          0.0
+        ],
+        "SweepShark": [
+          1,
+          0,
+          3.41,
+          0.0
+        ],
+        "Rolla": [
+          0,
+          0,
+          1.68,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          0,
+          0,
+          1.7,
+          0.0
+        ],
+        "Mega Spinz": [
+          1,
+          0,
+          0.01,
+          0.0
+        ],
+        "BankRolla": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "High5Casino": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Mega Bonanza": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          1,
+          0,
+          7.44,
+          0.0
+        ],
+        "SpinRise": [
+          1,
+          0,
+          5.12,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          0.57,
+          0.0
+        ],
+        "Revolution Casino": [
+          1,
+          0,
+          0.55,
+          0.0
+        ],
+        "BetAlice": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Millioner": [
+          0,
+          0,
+          0.0,
+          0.37
+        ],
+        "CasinoClick": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Freecash": [
+          0,
+          0,
+          1.31,
+          0.12
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.61,
+        "PrizeFlow  sweeps LP": 0.77,
+        "SuperSlotz sweeps": 0.84,
+        "Pirates LP": 32.98
+      }
+    },
+    {
+      "date": "2026-07-21",
+      "teams": {
+        "EMAIL": [
+          14.91,
+          6,
+          0,
+          20.98
+        ],
+        "MEDIA": [
+          262.07,
+          38,
+          4,
+          53.43
+        ],
+        "SOCIAL": [
+          60.04,
+          7,
+          2,
+          40.94
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          3,
+          0,
+          7.31,
+          0.5
+        ],
+        "BASHER AGENCY": [
+          1,
+          0,
+          4.47,
+          0.0
+        ],
+        "CoinsRoyale": [
+          30,
+          3,
+          153.5,
+          192.68
+        ],
+        "EPC": [
+          3,
+          0,
+          17.17,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          13,
+          1,
+          34.69,
+          0.0
+        ],
+        "IMPACT": [
+          0,
+          0,
+          1.35,
+          0.13
+        ],
+        "SPLASH": [
+          1,
+          0,
+          6.86,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          0,
+          0,
+          4.15,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          34,
+          3,
+          187.33,
+          210.5
+        ],
+        "CoinsRoyale": [
+          2,
+          0,
+          1.76,
+          17.65
+        ],
+        "SweepSpotGameTime": [
+          0,
+          0,
+          5.41,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          2.06,
+          0.0
+        ],
+        "High5": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "lonestar new": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          8.69,
+          0.0
+        ],
+        "CoinsBack": [
+          0,
+          0,
+          1.7,
+          0.0
+        ],
+        "SweepShark": [
+          2,
+          1,
+          8.47,
+          0.0
+        ],
+        "Rolla": [
+          0,
+          0,
+          1.9,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          1,
+          0,
+          1.98,
+          0.0
+        ],
+        "Mega Spinz": [
+          1,
+          0,
+          0.01,
+          0.0
+        ],
+        "BankRolla": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "VegasWays": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Sweet Sweep": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          1,
+          0,
+          4.81,
+          0.0
+        ],
+        "SpinRise": [
+          1,
+          0,
+          9.62,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          1.0,
+          0.0
+        ],
+        "Revolution Casino": [
+          0,
+          0,
+          0.39,
+          0.0
+        ],
+        "Millioner": [
+          1,
+          0,
+          0.0,
+          0.45
+        ],
+        "Freecash": [
+          0,
+          0,
+          1.11,
+          0.11
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.93,
+        "PrizeFlow  sweeps LP": 0.79,
+        "SuperSlotz sweeps": 0.76,
+        "Pirates LP": 47.43
+      }
+    },
+    {
+      "date": "2026-07-22",
+      "teams": {
+        "EMAIL": [
+          23.97,
+          10,
+          0,
+          33.74
+        ],
+        "MEDIA": [
+          203.54,
+          30,
+          3,
+          41.5
+        ],
+        "SOCIAL": [
+          80.67,
+          10,
+          3,
+          55.01
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          4,
+          0,
+          9.75,
+          0.67
+        ],
+        "BASHER AGENCY": [
+          1,
+          0,
+          4.59,
+          0.0
+        ],
+        "CHANCED": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "CoinsRoyale": [
+          37,
+          4,
+          188.92,
+          237.14
+        ],
+        "EPC": [
+          2,
+          0,
+          10.38,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          10,
+          1,
+          26.45,
+          0.0
+        ],
+        "IMPACT": [
+          0,
+          0,
+          1.3,
+          0.12
+        ],
+        "SPLASH": [
+          1,
+          0,
+          5.43,
+          0.0
+        ]
+      },
+      "brands": {
+        "SweepJungle": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Greenluck": [
+          0,
+          0,
+          2.23,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          25,
+          3,
+          137.85,
+          154.9
+        ],
+        "CoinsRoyale": [
+          3,
+          1,
+          2.37,
+          23.74
+        ],
+        "SweepSpotGameTime": [
+          0,
+          0,
+          4.29,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          3.37,
+          0.0
+        ],
+        "High5": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          7.85,
+          0.0
+        ],
+        "CoinsBack": [
+          1,
+          0,
+          4.62,
+          0.0
+        ],
+        "SweepShark": [
+          1,
+          0,
+          4.45,
+          0.0
+        ],
+        "Rolla": [
+          0,
+          0,
+          3.23,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          1,
+          0,
+          4.24,
+          0.0
+        ],
+        "High5Casino": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          0,
+          0,
+          4.46,
+          0.0
+        ],
+        "SpinRise": [
+          1,
+          0,
+          8.11,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          0.91,
+          0.0
+        ],
+        "Revolution Casino": [
+          1,
+          0,
+          0.45,
+          0.0
+        ],
+        "BetAlice": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Seven Casino": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Millioner": [
+          1,
+          0,
+          0.0,
+          0.51
+        ],
+        "Freecash": [
+          1,
+          1,
+          2.03,
+          0.19
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.83,
+        "PrizeFlow  sweeps LP": 0.88,
+        "SuperSlotz sweeps": 0.85,
+        "Pirates LP": 21.12
+      }
+    },
+    {
+      "date": "2026-07-23",
+      "teams": {
+        "EMAIL": [
+          38.87,
+          16,
+          1,
+          54.7
+        ],
+        "MEDIA": [
+          83.62,
+          12,
+          1,
+          17.05
+        ],
+        "SOCIAL": [
+          60.72,
+          7,
+          2,
+          41.4
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          2,
+          0,
+          4.06,
+          0.28
+        ],
+        "BASHER AGENCY": [
+          1,
+          0,
+          4.74,
+          0.0
+        ],
+        "CoinsRoyale": [
+          23,
+          2,
+          116.67,
+          146.45
+        ],
+        "EPC": [
+          1,
+          0,
+          8.87,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          8,
+          0,
+          21.94,
+          0.0
+        ],
+        "IMPACT": [
+          1,
+          1,
+          2.53,
+          0.24
+        ],
+        "SPLASH": [
+          0,
+          0,
+          3.68,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          0,
+          0,
+          2.28,
+          0.0
+        ],
+        "Luckyvibe": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          41,
+          4,
+          224.98,
+          252.8
+        ],
+        "CoinsRoyale": [
+          2,
+          0,
+          1.76,
+          17.57
+        ],
+        "SweepSpotGameTime": [
+          0,
+          0,
+          5.3,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          4.29,
+          0.0
+        ],
+        "Spree": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          7.04,
+          0.0
+        ],
+        "CoinsBack": [
+          0,
+          0,
+          4.02,
+          0.0
+        ],
+        "SweepShark": [
+          1,
+          0,
+          3.7,
+          0.0
+        ],
+        "Rolla": [
+          0,
+          0,
+          3.72,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          1,
+          0,
+          2.49,
+          0.0
+        ],
+        "Mega Spinz": [
+          1,
+          1,
+          0.01,
+          0.0
+        ],
+        "BankRolla": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "ChipNWin": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "High5Casino": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "McLuck": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "VegasWays": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Sweet Sweep": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          1,
+          0,
+          6.29,
+          0.0
+        ],
+        "SpinRise": [
+          1,
+          0,
+          10.11,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          0.8,
+          0.0
+        ],
+        "Revolution Casino": [
+          0,
+          0,
+          0.23,
+          0.0
+        ],
+        "BetAlice": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Millioner": [
+          0,
+          0,
+          0.0,
+          0.3
+        ],
+        "5Bet": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "CasinoClick": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Rooster.bet CA": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Freecash": [
+          0,
+          0,
+          1.33,
+          0.13
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.7,
+        "PrizeFlow  sweeps LP": 0.97,
+        "SuperSlotz sweeps": 0.69,
+        "Pirates LP": 12.06
+      }
+    },
+    {
+      "date": "2026-07-24",
+      "teams": {
+        "EMAIL": [
+          41.24,
+          17,
+          1,
+          58.04
+        ],
+        "MEDIA": [
+          209.52,
+          31,
+          3,
+          42.72
+        ],
+        "SOCIAL": [
+          93.47,
+          11,
+          3,
+          63.74
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          3,
+          0,
+          8.21,
+          0.56
+        ],
+        "BASHER AGENCY": [
+          0,
+          0,
+          1.48,
+          0.0
+        ],
+        "CHANCED": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "CoinsRoyale": [
+          16,
+          2,
+          78.87,
+          99.0
+        ],
+        "EPC": [
+          2,
+          0,
+          11.25,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          5,
+          0,
+          13.85,
+          0.0
+        ],
+        "IMPACT": [
+          0,
+          0,
+          0.84,
+          0.08
+        ],
+        "SPLASH": [
+          0,
+          0,
+          4.22,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          1,
+          0,
+          7.03,
+          0.0
+        ],
+        "Chanced Punt": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          30,
+          3,
+          167.48,
+          188.19
+        ],
+        "CoinsRoyale": [
+          3,
+          1,
+          1.97,
+          19.73
+        ],
+        "SweepSpotGameTime": [
+          0,
+          0,
+          7.79,
+          0.0
+        ],
+        "LegendzGameTime": [
+          1,
+          1,
+          7.32,
+          0.0
+        ],
+        "High5": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "lonestar new": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          5.73,
+          0.0
+        ],
+        "CoinsBack": [
+          0,
+          0,
+          3.83,
+          0.0
+        ],
+        "SweepShark": [
+          1,
+          0,
+          3.66,
+          0.0
+        ],
+        "Rolla": [
+          0,
+          0,
+          2.99,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          0,
+          0,
+          1.65,
+          0.0
+        ],
+        "Dorados": [
+          2,
+          0,
+          0.0,
+          0.0
+        ],
+        "Sweet Sweep": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          0,
+          0,
+          3.45,
+          0.0
+        ],
+        "SpinRise": [
+          0,
+          0,
+          4.26,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          0.99,
+          0.0
+        ],
+        "Revolution Casino": [
+          1,
+          0,
+          0.48,
+          0.0
+        ],
+        "BetAlice": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Millioner": [
+          1,
+          0,
+          0.0,
+          0.48
+        ],
+        "5Bet": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "CasinoClick": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Freecash": [
+          0,
+          0,
+          0.64,
+          0.06
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.71,
+        "PrizeFlow  sweeps LP": 0.89,
+        "SuperSlotz sweeps": 0.73,
+        "Pirates LP": 38.93
+      }
+    },
+    {
+      "date": "2026-07-25",
+      "teams": {
+        "EMAIL": [
+          62.88,
+          27,
+          1,
+          88.49
+        ],
+        "MEDIA": [
+          239.6,
+          35,
+          4,
+          48.85
+        ],
+        "SOCIAL": [
+          70.87,
+          8,
+          2,
+          48.33
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          3,
+          0,
+          8.47,
+          0.58
+        ],
+        "BASHER AGENCY": [
+          1,
+          0,
+          4.33,
+          0.0
+        ],
+        "CoinsRoyale": [
+          24,
+          2,
+          121.75,
+          152.83
+        ],
+        "EPC": [
+          2,
+          0,
+          14.95,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          9,
+          0,
+          23.18,
+          0.0
+        ],
+        "IMPACT": [
+          0,
+          0,
+          1.01,
+          0.1
+        ],
+        "SPLASH": [
+          1,
+          0,
+          5.43,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          0,
+          0,
+          4.34,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          15,
+          2,
+          82.05,
+          92.2
+        ],
+        "CoinsRoyale": [
+          2,
+          0,
+          1.58,
+          15.76
+        ],
+        "SweepSpotGameTime": [
+          1,
+          0,
+          11.04,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          3.27,
+          0.0
+        ],
+        "High5": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          7.5,
+          0.0
+        ],
+        "CoinsBack": [
+          1,
+          0,
+          9.54,
+          0.0
+        ],
+        "SweepShark": [
+          1,
+          0,
+          4.56,
+          0.0
+        ],
+        "Rolla": [
+          1,
+          0,
+          3.97,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          1,
+          0,
+          2.05,
+          0.0
+        ],
+        "Mega Spinz": [
+          1,
+          1,
+          0.01,
+          0.0
+        ],
+        "Mega Bonanza": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "VegasWays": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          0,
+          0,
+          4.38,
+          0.0
+        ],
+        "SpinRise": [
+          0,
+          0,
+          3.47,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          1.13,
+          0.0
+        ],
+        "Revolution Casino": [
+          1,
+          0,
+          0.58,
+          0.0
+        ],
+        "Millioner": [
+          0,
+          0,
+          0.0,
+          0.19
+        ],
+        "CasinoClick": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Freecash": [
+          1,
+          1,
+          1.57,
+          0.15
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.77,
+        "PrizeFlow  sweeps LP": 0.69,
+        "SuperSlotz sweeps": 0.96,
+        "Pirates LP": 20.54
+      }
+    },
+    {
+      "date": "2026-07-26",
+      "teams": {
+        "EMAIL": [
+          28.31,
+          12,
+          0,
+          39.84
+        ],
+        "MEDIA": [
+          211.21,
+          31,
+          3,
+          43.06
+        ],
+        "SOCIAL": [
+          78.11,
+          9,
+          3,
+          53.27
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          3,
+          0,
+          7.86,
+          0.54
+        ],
+        "BASHER AGENCY": [
+          1,
+          0,
+          4.74,
+          0.0
+        ],
+        "CHANCED": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "CoinsRoyale": [
+          20,
+          2,
+          102.25,
+          128.35
+        ],
+        "EPC": [
+          1,
+          0,
+          4.72,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          8,
+          0,
+          20.73,
+          0.0
+        ],
+        "IMPACT": [
+          0,
+          0,
+          1.36,
+          0.13
+        ],
+        "SPLASH": [
+          1,
+          0,
+          5.33,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          1,
+          0,
+          6.42,
+          0.0
+        ],
+        "Chanced Punt": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          23,
+          2,
+          128.01,
+          143.84
+        ],
+        "CoinsRoyale": [
+          2,
+          0,
+          1.56,
+          15.62
+        ],
+        "SweepSpotGameTime": [
+          1,
+          1,
+          12.11,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          1.56,
+          0.0
+        ],
+        "lonestar new": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          6.74,
+          0.0
+        ],
+        "CoinsBack": [
+          0,
+          0,
+          2.34,
+          0.0
+        ],
+        "SweepShark": [
+          1,
+          0,
+          4.32,
+          0.0
+        ],
+        "Rolla": [
+          0,
+          0,
+          3.42,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          1,
+          0,
+          1.98,
+          0.0
+        ],
+        "Baba": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "BankRolla": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "McLuck": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          0,
+          0,
+          3.73,
+          0.0
+        ],
+        "SpinRise": [
+          0,
+          0,
+          3.54,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          0.62,
+          0.0
+        ],
+        "Revolution Casino": [
+          0,
+          0,
+          0.45,
+          0.0
+        ],
+        "Millioner": [
+          0,
+          0,
+          0.0,
+          0.4
+        ],
+        "Freecash": [
+          0,
+          0,
+          0.91,
+          0.09
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.94,
+        "PrizeFlow  sweeps LP": 1.04,
+        "SuperSlotz sweeps": 0.99,
+        "Pirates LP": 39.98
+      }
+    },
+    {
+      "date": "2026-07-27",
+      "teams": {
+        "EMAIL": [
+          13.59,
+          6,
+          0,
+          19.12
+        ],
+        "MEDIA": [
+          178.74,
+          26,
+          3,
+          36.44
+        ],
+        "SOCIAL": [
+          93.92,
+          11,
+          3,
+          64.04
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          2,
+          0,
+          6.42,
+          0.44
+        ],
+        "BASHER AGENCY": [
+          1,
+          0,
+          3.17,
+          0.0
+        ],
+        "CoinsRoyale": [
+          26,
+          3,
+          131.98,
+          165.67
+        ],
+        "EPC": [
+          2,
+          0,
+          12.47,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          7,
+          0,
+          19.72,
+          0.0
+        ],
+        "IMPACT": [
+          0,
+          0,
+          1.06,
+          0.1
+        ],
+        "SPLASH": [
+          1,
+          0,
+          7.47,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          0,
+          0,
+          3.78,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          24,
+          2,
+          131.21,
+          147.44
+        ],
+        "CoinsRoyale": [
+          3,
+          1,
+          2.04,
+          20.41
+        ],
+        "SweepSpotGameTime": [
+          0,
+          0,
+          6.68,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          5.47,
+          0.0
+        ],
+        "LuckyBunny": [
+          0,
+          0,
+          3.73,
+          0.0
+        ],
+        "CoinsBack": [
+          0,
+          0,
+          3.66,
+          0.0
+        ],
+        "SweepShark": [
+          0,
+          0,
+          2.43,
+          0.0
+        ],
+        "Rolla": [
+          1,
+          0,
+          5.34,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          1,
+          0,
+          2.73,
+          0.0
+        ],
+        "BankRolla": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          1,
+          0,
+          7.4,
+          0.0
+        ],
+        "SpinRise": [
+          0,
+          0,
+          3.56,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          0.36,
+          0.0
+        ],
+        "Revolution Casino": [
+          1,
+          0,
+          0.58,
+          0.0
+        ],
+        "Bitkingz": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "BetAlice": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Millioner": [
+          1,
+          0,
+          0.0,
+          0.48
+        ],
+        "CasinoClick": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Freecash": [
+          1,
+          1,
+          2.91,
+          0.28
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 1.36,
+        "PrizeFlow  sweeps LP": 1.09,
+        "SuperSlotz sweeps": 1.71,
+        "Pirates LP": 46.15
+      }
+    },
+    {
+      "date": "2026-07-28",
+      "teams": {
+        "EMAIL": [
+          50.24,
+          21,
+          1,
+          70.71
+        ],
+        "MEDIA": [
+          171.12,
+          25,
+          3,
+          34.89
+        ],
+        "SOCIAL": [
+          54.02,
+          7,
+          2,
+          36.84
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          3,
+          0,
+          7.44,
+          0.51
+        ],
+        "BASHER AGENCY": [
+          0,
+          0,
+          1.43,
+          0.0
+        ],
+        "CoinsRoyale": [
+          11,
+          1,
+          55.73,
+          69.95
+        ],
+        "EPC": [
+          1,
+          0,
+          9.81,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          8,
+          0,
+          21.46,
+          0.0
+        ],
+        "IMPACT": [
+          0,
+          0,
+          1.28,
+          0.12
+        ],
+        "SPLASH": [
+          0,
+          0,
+          4.23,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          0,
+          0,
+          4.13,
+          0.0
+        ],
+        "Chanced Punt": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          25,
+          2,
+          137.11,
+          154.07
+        ],
+        "CoinsRoyale": [
+          2,
+          0,
+          1.56,
+          15.62
+        ],
+        "SweepSpotGameTime": [
+          1,
+          0,
+          11.59,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          3.88,
+          0.0
+        ],
+        "High5": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          7.47,
+          0.0
+        ],
+        "CoinsBack": [
+          1,
+          0,
+          4.19,
+          0.0
+        ],
+        "SweepShark": [
+          1,
+          0,
+          4.04,
+          0.0
+        ],
+        "Rolla": [
+          0,
+          0,
+          3.5,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          1,
+          0,
+          3.66,
+          0.0
+        ],
+        "Mega Spinz": [
+          1,
+          0,
+          0.01,
+          0.0
+        ],
+        "BankRolla": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Sweet Sweep": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          0,
+          0,
+          3.87,
+          0.0
+        ],
+        "SpinRise": [
+          1,
+          0,
+          5.19,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          1.02,
+          0.0
+        ],
+        "Revolution Casino": [
+          0,
+          0,
+          0.18,
+          0.0
+        ],
+        "Millioner": [
+          0,
+          0,
+          0.0,
+          0.4
+        ],
+        "Freecash": [
+          0,
+          0,
+          0.71,
+          0.07
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 1.13,
+        "PrizeFlow  sweeps LP": 0.87,
+        "SuperSlotz sweeps": 0.42,
+        "Pirates LP": 48.3
+      }
+    },
+    {
+      "date": "2026-07-29",
+      "teams": {
+        "EMAIL": [
+          29.26,
+          12,
+          1,
+          41.17
+        ],
+        "MEDIA": [
+          99.02,
+          15,
+          1,
+          20.19
+        ],
+        "SOCIAL": [
+          44.28,
+          5,
+          1,
+          30.19
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          3,
+          0,
+          6.91,
+          0.47
+        ],
+        "BASHER AGENCY": [
+          1,
+          0,
+          3.82,
+          0.0
+        ],
+        "CHANCED": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "CoinsRoyale": [
+          24,
+          2,
+          118.82,
+          149.16
+        ],
+        "EPC": [
+          1,
+          0,
+          5.46,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          8,
+          0,
+          21.76,
+          0.0
+        ],
+        "IMPACT": [
+          0,
+          0,
+          1.51,
+          0.14
+        ],
+        "SPLASH": [
+          1,
+          0,
+          7.65,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          1,
+          0,
+          5.37,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          18,
+          2,
+          100.12,
+          112.51
+        ],
+        "CoinsRoyale": [
+          3,
+          0,
+          1.93,
+          19.26
+        ],
+        "SweepSpotGameTime": [
+          0,
+          0,
+          7.33,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          3.37,
+          0.0
+        ],
+        "lonestar new": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Spinfinite2": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          6.72,
+          0.0
+        ],
+        "CoinsBack": [
+          0,
+          0,
+          2.23,
+          0.0
+        ],
+        "SweepShark": [
+          1,
+          0,
+          3.32,
+          0.0
+        ],
+        "Rolla": [
+          1,
+          0,
+          4.14,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          1,
+          0,
+          2.06,
+          0.0
+        ],
+        "High5Casino": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "McLuck": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          0,
+          0,
+          2.45,
+          0.0
+        ],
+        "SpinRise": [
+          0,
+          0,
+          4.37,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          1.23,
+          0.0
+        ],
+        "Revolution Casino": [
+          1,
+          0,
+          0.55,
+          0.0
+        ],
+        "BetAlice": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Millioner": [
+          1,
+          0,
+          0.0,
+          0.85
+        ],
+        "5Bet": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "CasinoClick": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Freecash": [
+          0,
+          0,
+          1.42,
+          0.14
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 1.53,
+        "PrizeFlow  sweeps LP": 0.7,
+        "SuperSlotz sweeps": 0.59,
+        "Pirates LP": 26.21
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "teams": {
+        "EMAIL": [
+          12.17,
+          5,
+          0,
+          17.13
+        ],
+        "MEDIA": [
+          232.19,
+          34,
+          4,
+          47.34
+        ],
+        "SOCIAL": [
+          78.85,
+          9,
+          3,
+          53.77
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          3,
+          0,
+          6.71,
+          0.46
+        ],
+        "BASHER AGENCY": [
+          1,
+          0,
+          3.08,
+          0.0
+        ],
+        "CoinsRoyale": [
+          22,
+          2,
+          112.6,
+          141.34
+        ],
+        "EPC": [
+          1,
+          0,
+          8.42,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          10,
+          1,
+          26.12,
+          0.0
+        ],
+        "IMPACT": [
+          0,
+          0,
+          1.41,
+          0.13
+        ],
+        "SPLASH": [
+          1,
+          0,
+          5.43,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          0,
+          0,
+          4.03,
+          0.0
+        ],
+        "Chanced Punt": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          19,
+          2,
+          106.27,
+          119.42
+        ],
+        "CoinsRoyale": [
+          6,
+          1,
+          4.53,
+          45.28
+        ],
+        "SweepSpotGameTime": [
+          0,
+          0,
+          8.91,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          4.65,
+          0.0
+        ],
+        "lonestar new": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          10.22,
+          0.0
+        ],
+        "CoinsBack": [
+          0,
+          0,
+          3.54,
+          0.0
+        ],
+        "SweepShark": [
+          1,
+          0,
+          4.44,
+          0.0
+        ],
+        "Rolla": [
+          1,
+          0,
+          3.86,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          0,
+          0,
+          1.22,
+          0.0
+        ],
+        "Baba": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "McLuck": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "VegasWays": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          2,
+          0,
+          0.0,
+          0.0
+        ],
+        "theWinZone": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          0,
+          0,
+          4.15,
+          0.0
+        ],
+        "SpinRise": [
+          0,
+          0,
+          1.91,
+          0.0
+        ],
+        "Midarion": [
+          0,
+          0,
+          1.14,
+          0.0
+        ],
+        "Revolution Casino": [
+          0,
+          0,
+          0.38,
+          0.0
+        ],
+        "RodeoSlot Casino": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Smash Casino": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Millioner": [
+          1,
+          0,
+          0.0,
+          0.44
+        ],
+        "5Bet": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Rooster.bet CA": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Freecash": [
+          0,
+          0,
+          0.47,
+          0.04
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.38,
+        "PrizeFlow  sweeps LP": 0.8,
+        "SuperSlotz sweeps": 0.8,
+        "Pirates LP": 32.33
+      }
+    },
+    {
+      "date": "2026-07-31",
+      "teams": {
+        "EMAIL": [
+          22.51,
+          10,
+          0,
+          31.71
+        ],
+        "MEDIA": [
+          164.24,
+          24,
+          3,
+          33.49
+        ],
+        "SOCIAL": [
+          56.07,
+          7,
+          2,
+          38.23
+        ]
+      },
+      "advertisers": {
+        "ALL IN AFFILIATES": [
+          2,
+          0,
+          5.91,
+          0.37
+        ],
+        "BASHER AGENCY": [
+          0,
+          0,
+          1.66,
+          0.0
+        ],
+        "CHANCED": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "CoinsRoyale": [
+          21,
+          2,
+          103.94,
+          130.52
+        ],
+        "EPC": [
+          3,
+          1,
+          22.14,
+          0.0
+        ],
+        "GAMETIME DIGITAL": [
+          7,
+          0,
+          17.79,
+          0.0
+        ],
+        "IMPACT": [
+          0,
+          0,
+          0.86,
+          0.1
+        ],
+        "SPLASH": [
+          0,
+          0,
+          3.86,
+          0.0
+        ]
+      },
+      "brands": {
+        "Greenluck": [
+          0,
+          0,
+          1.74,
+          0.0
+        ],
+        "Coins Royale sweeps": [
+          19,
+          2,
+          103.77,
+          116.59
+        ],
+        "CoinsRoyale": [
+          3,
+          1,
+          2.02,
+          20.24
+        ],
+        "SweepSpotGameTime": [
+          1,
+          0,
+          10.8,
+          0.0
+        ],
+        "LegendzGameTime": [
+          0,
+          0,
+          1.41,
+          0.0
+        ],
+        "Spree": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "LuckyBunny": [
+          1,
+          0,
+          9.57,
+          0.0
+        ],
+        "CoinsBack": [
+          0,
+          0,
+          2.63,
+          0.0
+        ],
+        "SweepShark": [
+          1,
+          0,
+          4.54,
+          0.0
+        ],
+        "Rolla": [
+          0,
+          0,
+          1.55,
+          0.0
+        ],
+        "Lucky Vibe CA": [
+          1,
+          0,
+          2.31,
+          0.0
+        ],
+        "Mega Spinz": [
+          1,
+          1,
+          0.02,
+          0.0
+        ],
+        "Dorados": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "VegasWays": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Sweet Sweep": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "The Boss": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "splashcoins": [
+          0,
+          0,
+          4.79,
+          0.0
+        ],
+        "SpinRise": [
+          1,
+          0,
+          7.57,
+          0.0
+        ],
+        "Midarion": [
+          1,
+          0,
+          2.23,
+          0.0
+        ],
+        "Revolution Casino": [
+          1,
+          0,
+          0.59,
+          0.0
+        ],
+        "BetAlice": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Millioner": [
+          1,
+          0,
+          0.0,
+          0.44
+        ],
+        "5Bet": [
+          1,
+          0,
+          0.0,
+          0.0
+        ],
+        "Freecash": [
+          1,
+          1,
+          1.66,
+          0.16
+        ]
+      },
+      "inhouse": {
+        "Spin2Win  sweeps LP": 0.83,
+        "PrizeFlow  sweeps LP": 0.7,
+        "SuperSlotz sweeps": 0.86,
+        "Pirates LP": 30.93
+      }
+    }
+  ]
+}
